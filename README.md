@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # prova_flutter
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Prova_Flutter
+Prova_Flutter
+>>>>>>> ecfecfda4eacefc4d4a67f6402da45044290c417
